@@ -1,0 +1,30 @@
+---
+title: "Me_2025"
+author: "Justin Holland"
+date: "2025-02-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+r Make.Images = TRUE`
+
+<!-- ############################################################################################# -->
+<!-- February 2025                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## February 2025
+
+### 20250222 Friday
+
+Yellowstone S2E51000. Random. Discussing business before the day. Communicate, plan, coordinate. 
+"Don't discuss at the dinner table" why? evening - communicate, night - consider,  morning - plan.
+John doest like it at the dinner table, Beth doesn'e like it at breakfast. 
+
+They dont have real relationships from our point of view, family is business. 
+
+Coordinate in the morning makes sense, but if you don't understand the issues, haven't considered them
+probably not much good. 

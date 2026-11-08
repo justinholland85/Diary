@@ -1,0 +1,223 @@
+---
+title: "Diary_2025"
+author: "Justin Holland"
+date: "2025-01-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+`r Make.Images = TRUE`
+
+<!-- ############################################################################################# -->
+<!-- January 2024                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## Janaury 2025
+
+
+
+### 20250103 Friday
+
+In Tassie from 17 Dec through 16 Jan. Daddy made a booking issue, Mummy's car got left in Geelong. 
+
+Day trip to Gunns Plains caves and Wings Wildlife with Nanny and Pooppy. Nanny did awesome in the caves. 
+Daddy carried Theo whole way, up and down steep steps and ladder. Another day where I'm very happy 
+to be dad-fit. 
+
+Both boys had a great day, caves definitely worthwhile experience. Tour guide Ben is a rover and 
+knows Amy. 
+
+Both kids loved the fish at Wings splashing them when being fed. Theo's laugh was fantastic,
+
+Both loved feeding the kangaroos as well. Theo didn't want to leave. 
+
+
+`r if(Make.Images){"![](Images/01_Jan/20250103_145552(0).jpg){width=600px height=337px}"}`
+
+### 20250104 Saturday
+
+Dinner at Little Sisters with live music. Kids played nicely with others. Walk home via the playground. 
+
+### 20250105 Sunday
+
+Went to Fossil Bluff early in the day. James loved the fossils. Theo loved lying down in puddles. 
+
+Maddy, Rory, Matteo and Xander came over in the afternoon and kids played together really nicely. 
+
+`r if(Make.Images){"![](Images/01_Jan/mitenedeabe230-815e-4777-a216-39ce8f2c6d8f.jpg){width=450px height=600px}"}`
+
+
+### 20250107 Tuesday  
+
+Moved to Adam and Brogan's at Cradle Mountain Hotel but had a quiet day otherwise. 
+
+
+
+### 20250111 Saturday  
+
+Went to Lobster Ponds with Granny and Pa, first time for all of us. Tour by Kevin Hyland, former mayor
+of Winyard. 
+
+### 20250112 Sunday
+
+Church in Burnie. Kids enjoyed running around with Taz and Lexi's girls. 
+
+Theo's language has been impressing eveeryone. Follows what being said really well, narrates the activities and plans
+and loves to repeat the plan to confirm his understanding of what is happening. 
+
+Theo is straigtening out, getting taller. looks like real little boy. getting heavier.
+
+Did maths basic maths school stuff (subscrition given from Nick) yesterday with James, he is interested
+and doing well. recognises numbers and counts well up to mid teens. 
+
+Also played quacks again with Granny and James yesterday, added blue chips taking us up to 5 coulours. 
+Not 100% sure James doesnt 'cheat; jsut a little but he is getting the logic and understadning the game quite 
+well at least while concentration holds. 
+
+
+
+<!-- ############################################################################################# -->
+<!-- February 2025                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## February 2025
+
+
+
+### 20250101 Saturday
+
+`r if(Make.Images){"![](Images/02_Feb/20250201_191944.jpg){width=450px height=600px}"}`
+
+Last night with Nanny poppy here helping look after James before school starts and doing lots of 
+pre-house-move work in the garden and babysitting while we try too. 
+
+Sitting here watching Theo use James keyboard, controlling it like a master, seriously playing piano
+to boppy 'Ode to Joy', seems like musical prodigy, playing to beet.
+
+
+### 20250222 Saturday
+
+Theo talking about being exctied for moving house. Trying to understand, asking things like "will Nanny
+and Poppy come to the new house? Will Granny and Pa come to the new house? and Phil will come to the new house?
+And Pippa and Lizzie will come to the new house" in his gorgeous little voice.
+
+Nailing potty training. 
+
+James settled in well to school. Feels like a lovely environment. Watched Mr Bean last night and 
+he was in stitches. Some more good chances to explain the jokes and what Mr Bean is doing wrong. I explained
+the pun in the christmas episode where the girlfriend asked if he had the turkey on and mr bean says
+something like "oh yes" when its really on his head. James thoguht it was hilarious when he understood it. 
+
+
+### 20250225 Tuesday
+
+At school drop of James did not want me to go trhough the gate. When we got to the gate he just turned
+and pointed an said 'go back to the car'. We clarified the situation and I agreed he could go by
+himself. On Friday he wanted me to sit and wait with him till the bell rang.
+
+First night at Joeys (Scouts) tonight - scavenger hunt - James took to it with enthusiasm and seemed 
+to do a good job of listening despite a litte bit of hyper energy. 
+
+Sitting down to watch 'funny donkey' with family, I asked Theo if I could sit with him (in my spot).
+He said carefully 'of course you can' in very lovely voice. Use of language is incredible.
+
+
+
+<!-- ############################################################################################# -->
+<!-- August 2025                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## August 2025
+
+### 20250813 Wednsday
+
+James lovely at scouts last night. Nerf guns, did parade of second time. Well behaved, did sneak attacks 
+on the flag more than shooting. 
+
+Nanny and Poppy staying. Theo very cuddly at night on the couch with Nanny. 
+
+Taking james to bed, read Monstosaurus, listened to a 'Bluey Club' and then went to put on the music 
+and he asks for 'the music that made me go to sleep when I was a baby" (The Last Kingdom - Livstraedrir), 
+not an uncommon occurrence. 
+Love it that he gets special meaning from that song.  
+
+James Minecraft improving. He started building his own house and then Evie came to help him. Love it 
+that we can hae this cousin-like relationship and spend time doing Minecraft together from a distance. 
+
+
+`r if(Make.Images){"![](Images/08_Aug/20250812_181855.jpg){width=600px height=337px}"}`
+
+
+`r if(Make.Images){"![](Images/08_Aug/20250812_181852.jpg){width=500px height=800px}"}`
+`r if(Make.Images){"![](Images/08_Aug/20250812_194222.jpg){width=500px height=800px}"}`
+
+
+### 20250815 Friday
+
+Zoo yesterday with Poppy and Theo. Nice day out. Theo on shoulders the whole way. 
+
+In the afternoon I needed to go to the garage to get the recipe I printed. Due to tears etc i ended 
+up carrying both boys down and up - good daddy-fit day. 
+
+
+<!-- ############################################################################################# -->
+<!-- September 2025                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## September 2025
+
+### 20250915 Monday
+
+40th Birthday weekend. Party in a couple of weeks to avoid being same weekend as Damo's bucks. 
+
+Lysh and Granny and Pa all staying with us, very nice weekend. 
+
+Last soccer game on the weekend, all kids having fun by the end of it. 
+
+### 20250929 Monday
+
+Big couple of weeks with Theo's Birthday and my birthday, Granny and Pa with us. 
+
+Theo's party was our first real event in new house, children from school plus our usual friends. Cassie, 
+Archer, Cooper and Tenveer from school. Great having house full of kid.
+
+My 40th similarly house full of kids. 
+
+
+
+<!-- ############################################################################################# -->
+<!-- Octboer 2025                                                                                 -->
+<!-- ############################################################################################# --> 
+## Octboer 2025
+
+### 20251008 Wednesday  
+
+James having great school holidays with Granny and Pa, Granny and Pa doing lots of activities at home. 
+
+James playing lots of soccer matches with Granny and Pa. 
+
+James and Daddy did parkrun on Saturday. Got Macccas afterwards and ate at Brad Haddin park, then played
+our first game of bridge soccer. James loved it.
+
+
+### 20251013 Monday
+
+weekend spent at Bateman's Bay caravan park with Kate, Sam, Steph, Will, Nate, Aaliyah, Alyse, Astrid and
+Fynn. Great time, kids loved it so much. 
+
+Theo proactically refused to sleep as it was just so into everythign that was going on. He loved playing 
+with the older kids, when we did try to get him to sleep / have a nap he was miserable and would girzzle 
+"no no no" in a despairing tone - was heart breaking. When we were driving home he said he didnt want to, 
+he wanted to go back to our cabin. 
+
+James and Nate were like peas in a pod. Sleep pver attempt with Nate in our cabin failed - Lori thought
+James and Nate might have scared each other somehow. 
+
+Lori said one mum with a kid about Theo's age at the pool was amazed at Theo's language and how it used 
+it with her - someone he didn;t even know. 
+

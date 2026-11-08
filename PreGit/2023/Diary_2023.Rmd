@@ -1,0 +1,317 @@
+---
+title: "Diary _2023"
+output: html_document
+date: "2023-02-16"
+---
+
+
+`r Make.Images = TRUE`
+
+<!-- ############################################################################################# -->
+<!-- February 2023                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## February 2023
+
+
+### 20230216 Thursday
+
+Attempt to start new diary system using markdown. Inspired by activities of the kids and desire to
+recollect the progress. 
+
+At Crown St, walk on the beach with James, Poppy, Wookie and Paddy.James loves the beach, pure joy, 
+doesnt want to leave. Always gets wet.
+
+Theo getting up on all fours. Moving backawards and eager to get crawling forward. Planks and pushups becomig common.
+
+Daddy got nice cuddly with Theo in James bed for 10 minutes this morning. Very nice.
+
+Moving to Cascade road later today.
+
+Moved to cascade road. James on Tractor, chat with Lynn and Ray, BBQ dinner and a bit of scooting for James.
+
+Drive up the hill in Camry with James holding the wheel.
+
+`r if(Make.Images){"![](Images/20230216_100158.jpg){width=225px height=400px}"}`
+
+### 20230219 Sunday
+
+At  Cascade Rd staying in old house.
+
+James loving tractor rides and waterslide and Fizzle and picking strawberries. 
+
+James especially loves steering the wheel on the blue camry between houses. Theo also seems to love riding 
+in the front seat.
+
+Played with Daddy's Slot cars and Battle Dome.
+
+Daddy got great cuddle with Theo on couch with, Daddy 95% asleep while Granny talking to Guy (17th) 
+
+James regularly finishing my explanations or, his own, with a lovely "that's how the world works!".
+
+Read books with Theo and James on me this morning - keeps the wriggler surprisingly still and interested.
+
+Tour around McKenna's new house yesterday.
+
+Pippa nearly pulled James over chasing paddy melons on walk down to new house this morning.
+
+James and Pa had big excitement with Russels' pigs other day.
+
+Trip to beach today with Nanny and Poppy. Daddy ran off for Indian buffet lunch with Guy and met
+Jay the dentist.
+
+`r if(Make.Images){"![](Images/20230219_115638.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230219_144134.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230217_161323.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230217_150812.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230219_115305.jpg){width=400px height=225px}"}`
+
+### 20230222 Wednesday
+
+Trip to Rhodo garden yesterday, very successful. James did lots of happy walking and talking in search 
+of platypus. Found both Platypus and Echidna. Persistence rewarded as daddy went back down for second 
+round with James to find platypus and got pretty good viewing from the bridge. 
+
+Trip to Cradle yesterday with Nanny, Poppy, Granny and Pa. Great day despite James being a bit of a tired 
+troll. James ate 3/4 of adult burger for lunch. I believe first bus ride for both kids. 
+
+Theo woke with first tooth this morning. Mummy also had him standing against the couch for a short 
+stint. 
+
+On boat tonight. Bit sad to leave Tassie. Lots of tractor rides today and big hugs for Granny and Pa.
+
+Fun new crab toy from Nanny and Poppy. 
+
+Theo sitting on Poppy during ticket to ride talking and playing so happily, just gorgeous. 
+
+
+`r if(Make.Images){"![](Images/20230221_141051.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230221_115119.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230220_141558.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230220_110405.jpg){width=225px height=400px}"}`
+`r if(Make.Images){"![](Images/20230221_120150.jpg){width=455px height=400px}"}`
+
+
+
+
+
+<!-- ############################################################################################# -->
+<!-- March 2023                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## March 2023
+
+### 20230302 Thursday
+
+Trip back on boat and drive home from Tassie quite successful, James very good on long drive thought
+last few hours were very painful for Theo.
+
+Sitting on deck working on lovely warm morning with Theo beside me in high chair shaking rattle and makeing
+love noises. So nice to have him next to me while I work. Mummy and James peparing picnic for zoo trip.
+
+In recent weeks James has regressed a little on toileting, inclung #2s in nappy after a 6 month period
+where that only happened once. 
+
+### 20230303 Friday
+
+Changed a sleepy Theo at 4:30 this morning, clung to sleep as I did it, no fuss. AS I left to work
+James said "I don't want you to leave Daddy". We had a nice hug and I told him we had an exciting weekend
+ahead. Truly Lovely parenting experiences.
+
+### 20230314 Friday
+
+
+Trip to Bundeena over the weekend with Reece, Douglas and Sarah. Sarah 32 Weeks. James and Douglas 
+played nicely for the most part, but James particularly good. 
+
+Theo doing a goodjob sitting up and playing with toys.
+
+Theo a little sick with fever, probably teeth coming through.
+
+Theo very close to crawling, any day now I think. 
+
+Went to sleep with Theo last night, just love it.
+
+<!-- ############################################################################################# -->
+<!-- April 2023                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## April 2023
+
+### 2023417 Monday
+
+Been a while since last entry but so much cuteness. 
+
+In recent weeks, Alysha visited, Yhi Feng visited for Easter, rode on Picnic Train with Reece, Douglas 
+and Emil, Nanny and Poppy are now visiting.
+
+Granny broke her hip on cruise ship in Japan (weekend Alysha was visiting), hip replacement in Japanese
+hospital. 
+
+Theo started crawling properly, scooting about, very determined to get to what he wants. 
+Has begun attempting to stand, can get him self up on both feet in a Gamma shape - $\Gamma$ - when
+he has something to hold on to. 
+
+The has begun eating food and is very keen on it, flaps wildly when he doesn't have some immediately. 
+Tried to steal James' bottle the other night while reading on James' bed. 
+
+Theo had first orientation at Kinderhaven on Friday. 
+
+James growing up. Nice Saturday morning, early up with James and Theo, building megablocks as a team, 
+I told him how I've been looking forward to building with him as a proper team since he was Theo's age.
+
+He is experimenting a lot with magnetiles, coming up with his own designs and imaginations. 
+
+3 year old tantrums not fun, can easily get into a tiz. Trying hard with positive parenting. Yesterday
+cam home from War Memorial with Mummy, Nanny and Poppy as absolute wreck. Punching, kicking, screaming. 
+We sat on his bed and kept trying to talk nicely until he cooled down and agreed readign a book and 
+playing a game would help. Quite lovely for the rest of the day, nice evening with Nanny and Poppy, 
+very long bath, short little play of Planet Zoo. 
+
+Occurred to me yesterday positive parenting requires focus on James, hard for Lori when she needs to 
+be looking after Theo.
+
+Started trying to play a little Planet Zoo, Smallworld and Ticket to Ride with James on the Computer.
+
+Have applied for my new part-time arrangement, Thursdays off from 4 May, can't wait. Hopefully 4th is 
+good weather for a trip to the zoo!. 
+
+### 20230418 Tuesday
+
+Lori had return-to-work meeting this morning so I took some time off and took Theo to the zoo, just
+the two of us. Had a great time, Theo happy throughout, didnt get too much from the animals but enjoyed
+the environment, the running water and the aquarium. 
+
+Sitting having lunch and he's saying something very much like "Dad Dad Dad Dad".
+
+Working on deck. Theo crawling about making lots of nice baby talking noises. So happy!
+
+
+### 20230418 Wednesday
+
+Last two nights 'reading' with James done a couple of pages of Where's Walley. Very nice! James doing 
+much better at spotting characters, and doing well following instructions to narrow search area.
+
+### 20230426 Wednesday
+
+Beautiful morning yesterday (ANZAC day) playing with first with Theo from about 6:30 then later lovely morning
+with James as well including bath with both at the same time (because Theo covered himself with Orange
+and James wanted to be in the bath too).
+
+Dinner with Josh and Rebekah last night. James very ratty around middle of day so took a nap and woke 
+up just after dinner to have delightful play of magnetiles with Josh and Rebekah. Rebekah did Thomas
+search and find with James before bed.
+
+James has been doing great at searrh and find, including the lovely animal book Leonie gave him in Cairns.
+Even spotting Walley before me on occassion.
+
+Theo standing, crawling, walking with balance support like a champ. Fox on the Run by Sweet definite
+winner for sleep. 
+
+
+### 20230429 Saturday
+
+Began swimming lessons this morning at Googong with both boys. James didn't want to go with daddy, insisted
+on going with Mummy so Daddy got to take Theo which was good fun for us both. Mummy really just had
+to watch James because he was in small class of 3 where parents are not required in the ppol.
+
+Despite a rough start he started listening and did really well, and didnt want to leave when the half hour 
+was up. 
+
+This afternoon Mummy took James to print some photos at Kmart, Daddy and Theo got the loungeroom floor
+back under control and at the end of all the fun Theo was ready for a nap, went to sleep on Daddy's
+shoulder on the deck with nice solid rain for music and atmosphere (though he still wanted some
+"If I had Words").
+
+
+
+<!-- ############################################################################################# -->
+<!-- May 2023                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## May 2023
+
+### 20230520 Saturday
+
+So many nice things lately. Today was nice family day. James and Mummy went to the shop before swimming,
+Daddy and Theo stayed home. 
+
+Then swimming lessons, running a bit late but all enjoyed it. Theo starting to close his eyes for 1,2,3 
+under. James seemed to have fun again. 
+
+Called Nanny to sing happy birthday.
+
+James had lovely day today for the most part. Went to the park with Mummy while Daddy, Theo and Pippa
+went to bicentennial. Did two laps while Theo slept, Daddy listening to Audio books. Mummy and James 
+came back and made dinosaur cookies. 
+
+Theo so fun to feed, just loves his tucker.
+
+Had lovely play on the floor with kids in the afternoon. Did a 1,2,3 blast off with Theo, then James
+wanted a turn. Then Theo starts flapping because he wants another turn. Similar with Daddy rocker. So
+exciting to see Theo asking for more as best he can. 
+
+James tried to jump over the baby gate this evening and banged his head, big bump, but seems to be ok.
+
+
+<!-- ############################################################################################# -->
+<!-- August 2023                                                                                   -->
+<!-- ############################################################################################# --> 
+
+## August 2023
+
+### 20230801 Tuesday
+
+So long without an entry and so much to include, but at Talbingo Mointain Retreat with Sam and Phil 
+and after a couple of experiences witha few steps over the last week or so, today is the day Theo
+decided to give walking a real go, lots of 5-10 step episodes. Will be running around tomorrow I'm sure!
+Went to the Thermal pools this morning.
+
+
+
+<!-- ############################################################################################# -->
+<!-- December 2023                                                                                   -->
+<!-- ############################################################################################# --> 
+
+## Dercember 2023
+
+### 20231203 Sunday 
+
+Again too long between entires, gets to the point that there is too much to catch up on. Great weekend
+despite challenges. James slept early afternoon through to 2330. Then he and Lori up all night.
+
+Theo James and I up a bit before 7, Lori back to bed. After getting Thoe's nappy and dog breakfasts etc
+sorted, went to maccers for a 'burger' as the excuse to go for a drive. James fell asleep in the drive 
+thru around 815. James back into bed for a few hours. 
+
+Theo and I took Pippa to walk at bicentnnial, around 8:40 now. Theo said 'hello' and 'bye-bye' to some 
+strangers. Love his talking. He climbed the tower holdingmy hand, gave pippa nice cuddles, walked down
+the stair holding my hand. Argument on the way back, he wants to walk byut ants everywhere and he puts 
+rocks in his mouth so try to carry him as much as possible. Left bicep got a good work out today.
+
+Back home, Lori and James still asleep, off to supermarket. Theo gets fed up of trolley so carried for 
+large parts of it, left bicep stil working hard, but hes still a good shopping buddy. Give him the 
+free banana just before checkout to keep him still while I unload the trolley. 
+
+Out of supermarket around 1020 and Off to fyshwick markets for oyseters, prawns and scallops. Theo sleeping
+koala by this point. Home aroudn 11. Theo into bed, wake James to get sleep pattern back on track. 
+
+Few tasks then my first shot at making oysters for lunch, with prawns and little salad. Theo wakes up 
+during lunch (naturally, instinctively will not miss a meal, love his food). Lor and James went off 
+for a walk, Theo and daddy wnet to get ice then got washing in and away before storm. 
+
+Another poop, second bath of the day for Theo and daddy, then long play in Theo's room while Lori worked
+and James watched dino ranch. Beans for dinner, then Theo down. Wrote this while James finishes episode, 
+now off to bed with James and hopefully asleep in good time to get up for Spurs vs Man City at 3am. 
+
+Good day. 
+
+
+
+
+
+
+
+
+
+

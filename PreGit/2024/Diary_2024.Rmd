@@ -1,0 +1,114 @@
+---
+title: "Diary_2024"
+author: "Justin Holland"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+`r Make.Images = TRUE`
+
+<!-- ############################################################################################# -->
+<!-- January 2024                                                                                 -->
+<!-- ############################################################################################# --> 
+
+## Janaury 2024
+
+### 20240131 Wenesday
+
+At work in ATO office. Long time no post, jotting notes while waiting for code.
+
+Got home from 6 weeks in Tassie on Saturday afternoon. Huge break.
+
+Over the holiday, James did so many amazingly exciting things. Partial list:
+
+*   Kyaking with Daddy and Poppy
+    +   Went to the far end of sisters beach and touched the rock with our paddle. Amazaed that James 
+        sat still for 45 minutes. 
+*   Child's quad motorbike ride at Jono's.
+    +   James had ride on his own. Did ok as long as he kept looking forward. 
+    +   James asked if we could 'come back tomorrow'. 
+*   Helicopter Ride
+    +   Poppy organised with his friend Rodney to give us a helicopter ride from Sisters beach. 
+    +   Mummy did not want to come, so just Daddy and James went with Poppy. 
+    +   Daddy's first helicopter ride. 
+    +   Flew to Woolnorth then turned down the west coast for a little way before turning back. 
+*   Tractor Rides
+    +   Granny and Pa both gave out generous amounts of tractor rides
+*   Rope swing at creek
+
+James also had great time playing with Nathaniel, Evie and Elijah. Kids generally got on very well. 
+James behavior was unusually difficult around bed times we think due to combinations of tiredness, 
+excitement and absence of routine. Despite difficult periods, still lovely most of the time.
+
+Everyone though Theo's development over the holiday was amazing. He had already been doing great with
+his words but just went crazy over the holiday. Over the period grasped names for all grandparents, and 
+paddy. Learnt cows and sheep and associated noises. Loved taking John from one side of the paddock to 
+the other to find the animals.
+
+Began to demonstrate strong awarness of surrounds and devloped associations with what 'should be there'.
+
+For example, hoing out of the old house in the morning, would point to the road and say 'cows'. When
+arriving at Nanny and Poppy's crown st house would say 'boats', 'nanny', 'poppy'. 
+
+On one trip to the creek, Granny and Pa met us there. The next time we went, as walking toward the creek, 
+he pointed to where they had been last time and said 'granny', 'pa'. 
+
+When we returned to Sister's beach for our stay with the Mollisons, kept looking around for Nanny and Poppy, 
+certain they should be there. 
+
+Upon returning to Queanbeyan, very keen to look at picture of grandparents on the wall and practice their 
+names. 
+
+## February 2024
+
+### 20240229 Thursday
+
+
+Today: up around 7,  breakfast, nappy, bath, out of the house before 830, at BigW jus before opening 
+(quick ride in Peppa Pig van to kill 5 minutes). Meat from Aldi (Theo riding in main part of trolley as 
+wont stay put in seat next to James; James behving perfectly, holding foxy). 
+
+Off to Seafood shop, stop at corner store to get ice, home by 1010, get into swimmers and Off to 
+Queanbeyan pool. James enjoys kickboard race with another little girl and refereed by her grandmother. 
+
+Theo loves jumipng into pool. Where as James instinct was to stick to me in the pool at this age Theo 
+tries to get away. No concern at all and extremely trusting that I will be there to get him out of trouble.
+
+Lots of smiles and hellos from other people. 
+
+Quick trip to Maccers straigh after the pool (racing to get food for Theo before he gos to sleep).
+
+After eating, theo asleep in 2 minutes of driving. 
+
+Home to have first sleep in new bed (I think).
+
+James watches TV for a bit, then starts excavation dig, happily plays wth the for couple oh hours.
+
+Theo wakes up, Daddy continues tryign to prep for dinner, get washing away etc. 
+
+Gnocchi bolegnese for dinner, both kids eat well. 
+
+Bath, then drive. James asleep, Theo asleep but doesnt stick. 
+
+Watch Nivalny documentaty with Daddy and Mummy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
